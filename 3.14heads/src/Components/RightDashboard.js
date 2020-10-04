@@ -114,7 +114,7 @@ class RightDashboard extends React.Component {
                 </Tab>
 
                 <Tab eventKey="Advanced Params" title="Advanced Params" >
-                <div id='style-14' style={{ height: '70vh', overflow: 'scroll', overflowX: 'hidden'}}>
+                <div style={{ height: '70vh', overflow: 'scroll'}}>
                 <b>Earth</b>
                 <Row>
                     <Col>
